@@ -1,7 +1,7 @@
 # Gene Sequence Recognizer
 Gene Sequencer is a C++ application that takes one file containing a desired DNA nucleotide sequence and a second file containing a chunk of DNA nucleotides. This program searches to see if the desired DNA sequence exists within the DNA chunk in some form, allowing users to search for coding protein sequences that are split up by introns and other inter-exon nucleotide chunks by using an LCS algorithmic search. The user can also convert the DNA sequence to messenger RNA and further to the amino acid sequence if the mRNA is of valid protein coding form, and at each step has analytical capabilities to get various properties of the DNA, mRNA, or amino acid chain of the desired DNA nucleotide sequence. This application is still currently in development and needs to have final portions of the application implemented
 
-![Static Badge](https://img.shields.io/badge/Bioinformatics-purple?style=flat&logo=https://github.com/Jfar97/GeneSequencer/blob/main/README_asset/DNA_logo.jpg)
+![Static Badge](https://img.shields.io/badge/Bioinformatics-purple?style=flat&logo=https://raw.githubusercontent.com/Jfar97/GeneSequencer/main/README_asset/DNA_logo.jpg)
 
 
 # Technical Skills Implemented:
